@@ -1,0 +1,10 @@
+{
+  "name": "das-slack-boot",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.18.0",
+    "@google-cloud/storage": "^5.8.5",
+    "axios": "^0.21.1",
+    "moment": "^2.29.1"
+  }
+}
